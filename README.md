@@ -1,4 +1,4 @@
-<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf64_logo.png?raw=true" alt="Classic Faithful 64x" align="right" height="256px">
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf64pa_logo.png?raw=true" alt="Classic Faithful 64x" align="right" height="256px">
 <div align="center">
   <h1>Classic Faithful 64x Programmer Art</h1>
   <h3>All the original textures, remastered in quadruple the vanilla resolution.</h3>
